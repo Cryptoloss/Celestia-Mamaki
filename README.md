@@ -1,5 +1,7 @@
 # Celestia-Mamaki
 
+![celestia](https://user-images.githubusercontent.com/98783018/177457169-b4d1d7eb-7b6e-4c59-8022-29c84c3c5078.png)
+
 Cosmos Ekosisteminin Modüler Yapıdaki En Önemli Projesi olan Celestia Mamaki Testnet Katılım Kodları
 
 **Sistem Gereksinimleri**
